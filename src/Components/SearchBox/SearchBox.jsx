@@ -7,7 +7,7 @@ const SearchBox = ({ onInputChange }) => {
     return(
         <div className="search-container">
             <input
-                onChange={ debounce( (event) => onInputChange(event.target.value) , 2000 ) }
+                onChange={ debounce( (event) => onInputChange(event.target.value) , 500 ) }
                 placeholder="Type a Keyword"
                 className="search-input"
                 autoFocus="true"
