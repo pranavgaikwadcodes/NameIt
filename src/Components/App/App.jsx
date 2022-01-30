@@ -16,7 +16,6 @@ const App = () => {
     const handleInputChange = (inputText) => {
         setHeaderExpanded(!inputText);
         setSuggestedNames(inputText ? name(inputText) : []);
-        
     };
 
     return (
