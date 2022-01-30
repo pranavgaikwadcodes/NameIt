@@ -3,4 +3,4 @@
 
 ### sounds instresting ??
 
-## [click me to try it out](https://codeed-pranavgaikwad.github.io/NameIt/)
+## [click me to try it out](https://pranavgaikwadcodes.github.io/NameIt/)
