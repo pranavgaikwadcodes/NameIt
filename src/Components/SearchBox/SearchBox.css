@@ -13,7 +13,7 @@
     color: rgb(98, 26, 165);
     border-radius: 10px;
     box-shadow: 0 0 5px rgb(237, 204, 250);
-    transition: 1s ease;
+    transition: 2s ease;
 }
 
 .search-input::placeholder{

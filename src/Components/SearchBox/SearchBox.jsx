@@ -9,6 +9,7 @@ const SearchBox = ({ onInputChange }) => {
                 onChange={(event) => onInputChange(event.target.value)}
                 placeholder="Type a Keyword"
                 className="search-input"
+                autoFocus="true"
             />
         </div>
     )
